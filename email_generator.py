@@ -2,11 +2,11 @@
 Created by Caleb Mingo
 2/14/2022
 
-The purpose of this program was originally to generate a specified amount of email with randomly generated names and passwords
+The purpose of this program was originally to generate a specified number of emails with randomly generated names and passwords
 and store these usernames and passwords into a text file for future use.
 Due to "I am not a robot" I could not finish this project (probably a good thing for humanity lol).
 With chrome version 97 and a chrome driver installed, this programs enters in user information on yandex.com and inputs information 
-onto the website in an automated fashion.
+onto the website in an automated fashion in a split second.
 """
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
